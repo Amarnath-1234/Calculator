@@ -1,6 +1,8 @@
 .text{
   text-align: center;
-  color: rgb(32, 195, 221);
+  border-radius: 5px;
+  background-color: black;
+  color: rgb(33, 186, 225);
 /*   font-size: 50px; */
 }
 
